@@ -216,3 +216,6 @@ function resetGame() {
     //this resets our array so it is empty and we can start over
     selectedSquares= [];
 }
+
+
+
